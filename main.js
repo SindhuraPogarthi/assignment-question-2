@@ -23,6 +23,7 @@ function highlightHTMLContent(htmlContent, plainText, plainTextPositions) {
     }
    
   });
+  
 
   return modifiedHtml;
 }
